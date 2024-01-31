@@ -1,3 +1,9 @@
+/****************************************************
+ * @author - John Sunday(AKA jscriptural);          *
+ * @email - isonguyojohndeveloper@gmail.com         *
+ * @file sqrt.c                                     *
+ * @brief Return squareroot of a non-negative  num  *
+ * **************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <errno.h>
